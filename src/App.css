@@ -1,0 +1,9 @@
+body{
+    background: url(https://www.powertecsolutions.net/wp-content/uploads/2019/05/form-background.png);
+    background-size: cover;
+}
+.form {
+    position: relative;
+    top: 65px;
+}
+
